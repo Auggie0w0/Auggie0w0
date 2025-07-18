@@ -1,4 +1,6 @@
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 <table>
   <tr>
