@@ -16,14 +16,8 @@
     <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" alt="JavaScript Logo" />
   </a>
 </p>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
-</p>
 
 ---
-
 <table>
   <tr>
     <td>
@@ -38,6 +32,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</p>
 
 ---
 
