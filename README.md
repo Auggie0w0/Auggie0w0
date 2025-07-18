@@ -1,6 +1,8 @@
-<div align="center" style="width: 100%; overflow: hidden; border-radius: 12px; margin-bottom: 24px;">
-  <img style="width: 60%; border-radius: 12px;" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg" alt="Header Image" />
-</div>
+
+<h1 align="center" style="font-size: 3.2rem; font-weight: 700; color: #0F67D1; font-family: cursive; letter-spacing: 1px;">
+  WELCOME TO MY GITHUB
+</h1>
+
 
 ---
 
@@ -21,25 +23,16 @@
     <tr>
       <td>
         <a href="https://git.io/streak-stats">
-          <img height="180em" src="https://streak-stats.demolab.com/?user=Auggie0w0&theme=default&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=Auggie0w0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
         </a>
       </td>
     </tr>
   </table>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=react" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=github" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=java" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
 </p>
 
 ---
