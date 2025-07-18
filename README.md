@@ -1,5 +1,5 @@
-<div align="center" style="width: 100%; height: 100px; overflow: hidden; border-radius: 8px; margin-bottom: 1 rem;">
-  <img style="width:80%;" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg"/>
+<div align="center" style="width: 100%; height: 100px; overflow: hidden; border-radius: 8px; margin-bottom: 20px;">
+  <img style="width:80%; border-radius: 10px;" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg"/>
 </div>
 
 <table>
