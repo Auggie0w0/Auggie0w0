@@ -1,3 +1,6 @@
+<h1 align="center" style="font-size: 3rem; font-weight: bold; color: #0F67D1; margin-bottom: 0.5em;">
+  👋 Welcome to My GitHub!
+</h1>
 
 ---
 
@@ -28,15 +31,6 @@
       </td>
     </tr>
   </table>
-</p>
-
----
-
-<p align="center">
-  <img src="assets/react-blue.svg" height="40" />
-  <img src="assets/github-blue.svg" height="40" />
-  <img src="assets/java-blue.svg" height="40" />
-  <img src="assets/javascript-blue.svg" height="40" />
 </p>
 
 ---
