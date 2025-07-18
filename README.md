@@ -36,20 +36,12 @@
 ---
 
 <p align="center">
-  <a href="https://reactjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=react" alt="React Logo" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=github" alt="GitHub Logo" />
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=java" alt="Java Logo" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" alt="JavaScript Logo" />
-  </a>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=react" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=github" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=java" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
 </p>
 
 ---
 
-<p align="center"><i>More visual components and small projects coming soon. ✨</i></p>
+<p align="center"><i>More components and content in progress. Thanks for visiting! 🎉</i></p>
