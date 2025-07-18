@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/header_cropped.jpeg" alt="Header Art" />
+</p>
 
 <table>
   <tr>
@@ -13,6 +16,16 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</p>
+
+> *This animation is generated using [Platane/snk](https://github.com/Platane/snk) GitHub Action based on my contribution graph.*
 
 ## What I am using...
 <p align="center">
@@ -30,14 +43,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
-</p>
-
-> *This animation is generated using [Platane/snk](https://github.com/Platane/snk) GitHub Action based on my contribution graph.*
