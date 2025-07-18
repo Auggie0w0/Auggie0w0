@@ -2,6 +2,8 @@
   <img style="width:80%; border-radius: 10px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg"/>
 </div>
 
+<br>
+
 <table>
   <tr>
     <td>
