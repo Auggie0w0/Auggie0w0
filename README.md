@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 3rem; font-weight: bold; color: #0F67D1; margin-bottom: 0.5em;">
-  👋 Welcome to My GitHub!
+<h1 align="center" style="font-size: 3.2rem; font-weight: 800; letter-spacing: -1px; color: #0F67D1; font-family: 'Segoe UI', sans-serif;">
+  Welcome to my GitHub
 </h1>
 
 ---
