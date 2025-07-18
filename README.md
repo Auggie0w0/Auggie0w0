@@ -1,6 +1,8 @@
-<p align="center">
-  <img style="width: 80%; height: auto; border-radius: 8px;"src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg" alt="Header Art" />
-</p>
+<div align="center" style="width: 80%; height: 150px; overflow: hidden; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3_small.jpeg" 
+       alt="Header Art" 
+       style="width: 100%; object-fit: cover;" />
+</div>
 
 <table>
   <tr>
