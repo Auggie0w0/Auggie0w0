@@ -2,8 +2,6 @@
   <img src="dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
----
-
 <table>
   <tr>
     <td>
