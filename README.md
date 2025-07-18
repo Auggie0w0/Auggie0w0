@@ -1,5 +1,3 @@
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
@@ -10,8 +8,6 @@
 </p> -->
 
 ---
-
-### 📊 GitHub Stats
 
 <table>
   <tr>
