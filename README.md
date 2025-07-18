@@ -2,11 +2,6 @@
   <img src="dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<!-- Alternative: Use GIF version -->
-<!-- <p align="center">
-  <img src="dist/ocean.gif" alt="GitHub Contribution Snake GIF" />
-</p> -->
-
 ---
 
 <table>
