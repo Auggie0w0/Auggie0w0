@@ -1,23 +1,8 @@
-<div align="center" style="width: 100%; height: 80%; overflow: hidden; border-radius: 8px;">
-  <img style="width:60%; border-radius: 10px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg"/>
+<div align="center" style="width: 100%; overflow: hidden; border-radius: 12px; margin-bottom: 24px;">
+  <img style="width: 60%; border-radius: 12px;" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg" alt="Header Image" />
 </div>
 
-<br>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img height="180em" src="https://streak-stats.demolab.com/?user=Auggie0w0&theme=default&hide_border=true" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=true&theme=default&hide_border=true" alt="Auggie0w0's GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
 <p align="center">
   <picture>
@@ -27,9 +12,29 @@
   </picture>
 </p>
 
-> *This animation is generated using [Platane/snk](https://github.com/Platane/snk) GitHub Action based on my contribution graph.*
+<p align="center"><i>This animation is generated using <a href="https://github.com/Platane/snk">Platane/snk</a> from my GitHub contribution graph!</i></p>
 
-## What I am using...
+---
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img height="180em" src="https://streak-stats.demolab.com/?user=Auggie0w0&theme=default&hide_border=true" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 <p align="center">
   <a href="https://reactjs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=react" alt="React Logo" />
@@ -45,4 +50,6 @@
   </a>
 </p>
 
+---
 
+<p align="center"><i>More visual components and small projects coming soon. ✨</i></p>
