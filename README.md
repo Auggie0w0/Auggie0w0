@@ -1,15 +1,7 @@
-<h1 align="center" style="font-size: 3rem; font-weight: bold; color: #0F67D1; margin-bottom: 0.5em;">
+
+<h1 align="center" style="font-size: 3.2rem; font-weight: 700; color: #0F67D1; font-family: cursive; letter-spacing: 1px;">
   WELCOME TO MY GITHUB!
 </h1>
-
-<h1 align="center" style="font-size: 3rem; font-weight: 600; font-family: Georgia, serif; color: #0F67D1; letter-spacing: 1px;">
-  WELCOME TO MY GITHUB!
-</h1>
-
-<h1 align="center" style="font-size: 2.8rem; font-weight: bold; color: #0F67D1; font-family: 'Courier New', monospace; text-transform: uppercase; letter-spacing: 2px;">
-  WELCOME TO MY GITHUB!
-</h1>
-
 ---
 
 <p align="center">
