@@ -5,37 +5,22 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: "0 0,12 * * *"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate Snake Animation
-    timeout-minutes: 5
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      # --- Contribution Animation (snk) ---
-      - name: Generate contribution SVGs and GIF
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # --- Commit Changes ---
-      - name: Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          commit_message: "chore: update snake animation files"
-          commit_user_name: Auggie0w0
-          commit_user_email: 40339350+Auggie0w0@users.noreply.github.com
-          file_pattern: dist/*.svg,dist/*.gif
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
