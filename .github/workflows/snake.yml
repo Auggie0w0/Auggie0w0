@@ -1,4 +1,4 @@
-name: Cache GitHub README Stats and Contribution Animation
+name: Generate Snake Animation
 
 on:
   workflow_dispatch:
@@ -9,39 +9,33 @@ on:
     - cron: "0 0,12 * * *"
 
 jobs:
-  update-assets:
+  generate:
     runs-on: ubuntu-latest
-    name: Update, Generate, and Commit Assets
+    name: Generate Snake Animation
     timeout-minutes: 5
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Create assets directory
-        run: mkdir -p assets
-
-      # --- GitHub README Stats ---
-      - name: Download the stats file
-        run: curl 'https://g-r-s.vercel.app/api?username=Auggie0w0&include_all_commits=true&locale=en&show=prs_merged&show_icons=true&theme=transparent&border_radius=10&border_color=0A0F0B' -o assets/stats.svg
-
-      - name: Download the top languages file
-        run: curl 'https://g-r-s.vercel.app/api/top-langs?username=Auggie0w0&size_weight=0.4&count_weight=0.6&langs_count=20&show_icons=true&theme=transparent&layout=compact&border_radius=10&border_color=0A0F0B' -o assets/top-langs.svg
+      - name: Create dist directory
+        run: mkdir -p dist
 
       # --- Contribution Animation (snk) ---
-      - name: Generate contribution SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate contribution SVGs and GIF
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-contribution-grid-snake.svg
-            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # --- Commit Changes (Combined) ---
+      # --- Commit Changes ---
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(assets): update GRS and snk files"
+          commit_message: "chore: update snake animation files"
           commit_user_name: Auggie0w0
           commit_user_email: 40339350+Auggie0w0@users.noreply.github.com
-          file_pattern: assets/*.svg 
+          file_pattern: dist/*.svg,dist/*.gif 
