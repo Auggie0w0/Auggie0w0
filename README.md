@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/header_cropped_2_3.jpeg" alt="Header Art" />
+  <img src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg" alt="Header Art" />
 </p>
 
 <table>
