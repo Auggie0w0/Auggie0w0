@@ -1,6 +1,3 @@
-<div align="center" style="width: 100%; overflow: hidden; border-radius: 12px; margin-bottom: 24px;">
-  <img style="width: 60%; border-radius: 12px;" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/header_cropped_2_3.jpeg" alt="Header Image" />
-</div>
 
 ---
 
@@ -36,10 +33,10 @@
 ---
 
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=react" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=github" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=java" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" height="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(99%) saturate(746%) hue-rotate(191deg) brightness(95%) contrast(95%);" />
+  <img src="assets/react-blue.svg" height="40" />
+  <img src="assets/github-blue.svg" height="40" />
+  <img src="assets/java-blue.svg" height="40" />
+  <img src="assets/javascript-blue.svg" height="40" />
 </p>
 
 ---
