@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3.2rem; font-weight: 700; color: #0F67D1; font-family: cursive; letter-spacing: 1px;">
+T W<h1 align="center" style="font-size: 3.2rem; font-weight: 700; color: #0F67D1; font-family: cursive; letter-spacing: 1px;">
   WELCOME TO MY GITHUB
 </h1>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## 🔗 Connect with Me
+## 🔗 CONNECT WITH ME
 
 <a href="https://www.linkedin.com/in/august-lam-b6a4a5361/">
   <img style="max-width:50px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
