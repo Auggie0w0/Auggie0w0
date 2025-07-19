@@ -1,4 +1,4 @@
-T W<h1 align="center" style="font-size: 3.2rem; font-weight: 700; color: #0F67D1; font-family: cursive; letter-spacing: 1px;">
+<h1 align="center" style="font-size: 3.2rem; font-weight: 700; color: #0F67D1; font-family: cursive; letter-spacing: 1px;">
   WELCOME TO MY GITHUB
 </h1>
 
