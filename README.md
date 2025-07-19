@@ -11,8 +11,6 @@
 </p>
 
 
----
-
 <div align="center">
 
 ## 🔗 Connect with Me
@@ -31,7 +29,8 @@
 
 </div>
 
----
+<br> <br>
+
 
 <div align="center">
 
