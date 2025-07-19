@@ -15,16 +15,16 @@
 
 <div align="center">
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 <a href="https://www.linkedin.com/in/august-lam-b6a4a5361/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img style="max-width:50px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://medium.com/@auggieldoggie">
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <img style="max-width:50px" alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/auggowo/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
