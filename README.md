@@ -35,24 +35,24 @@
 <div align="center">
 
 <!-- STATS (stacked left) + LANGUAGES (right) -->
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr valign="top">
-    <td width="50%">
-      <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-        <tr>
-          <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&card_width=320" alt="GitHub Stats" width="100%" />
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; display: none">
+  <tr valign="top" style="display: none">
+    <td width="50%" style="display: none">
+      <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; display: none;">
+        <tr style="display: none">
+          <td style="display: none"> 
+            <img src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=true&theme=transparent&border_radius=10&border_color=00000000&hide_title=true&card_width=320" alt="GitHub Stats" width="100%" />
           </td>
         </tr>
-        <tr>
-          <td>
-            <img src="https://streak-stats.demolab.com/?user=Auggie0w0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="100%" />
+        <tr style="display: none">
+          <td style="display: none">
+            <img src="https://streak-stats.demolab.com/?user=Auggie0w0&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" />
           </td>
         </tr>
       </table>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggie0w0&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Languages" width="100%" />
+    <td width="50%" style="display: none">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggie0w0&layout=compact&theme=transparent&hide_border=true&langs_count=20" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -64,27 +64,30 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Auggie0w0/Auggie0w0/main/assets/github-snake.svg" />
 </picture>
 
+<br> <br>
+
 <!-- PINNED PROJECTS -->
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr valign="top">
-    <td width="50%">
+   <tr style="display: none"></tr>
+  <tr valign="top" style="display: none">
+    <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/auggiepage">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=auggiepage&theme=github_dark&hide_border=true" alt="auggiepage" width="100%" />
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/personal-simp-site">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=personal-simp-site&theme=github_dark&hide_border=true" alt="personal-simp-site" width="100%" />
       </a>
     </td>
   </tr>
-  <tr valign="top">
-    <td width="50%">
+  <tr valign="top" style="display: none">
+    <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/shadow-escape">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=shadow-escape&theme=github_dark&hide_border=true" alt="shadow-escape" width="100%" />
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/hydration-tracker">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=hydration-tracker&theme=github_dark&hide_border=true" alt="hydration-tracker" width="100%" />
       </a>
