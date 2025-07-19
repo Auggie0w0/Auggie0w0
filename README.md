@@ -10,6 +10,27 @@
   I'm also part of <strong>Team Username Taken</strong> — a creative collective where I plan to showcase original projects, interactive demos, CTF achievements, and tools that help people learn and build. Whether it's cyber challenges, design experiments, or tiny games, everything here is a learning journey in progress.
 </p>
 
+
+---
+
+<div align="center">
+
+### 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/august-lam-b6a4a5361/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://medium.com/@auggieldoggie">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/auggowo/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
 ---
 
 <div align="center">
