@@ -94,8 +94,14 @@
       </a>
     </td>
     <td width="50%" style="display: none">
-      <a href="https://github.com/Auggie0w0/vocab-cards">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=vocab-cards&theme=github_dark&hide_border=true" alt="hydration-tracker" width="100%" />
+      <a href="https://github.com/Auggie0w0/picoCTF">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=vocab-cards&theme=github_dark&hide_border=true" alt="picoCTF grind records and notes" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <td width="50%" style="display: none">
+      <a href="https://github.com/Auggie0w0/learn-cpp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=vocab-cards&theme=github_dark&hide_border=true" alt="learning cpp languages and framworks" width="100%" />
       </a>
     </td>
   </tr>
