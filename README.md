@@ -47,7 +47,7 @@
       <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; display: none;">
         <tr style="display: none">
           <td style="display: none"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=false&theme=transparent&border_radius=10&border_color=00000000&hide_title=true&card_width=320" alt="GitHub Stats" width="100%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Auggie0w0&show_icons=true&theme=transparent&border_radius=10&border_color=00000000&hide_title=true&card_width=320" alt="GitHub Stats" width="100%" />
           </td>
         </tr>
         <tr style="display: none">
@@ -95,13 +95,18 @@
     </td>
     <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/picoCTF">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=vocab-cards&theme=github_dark&hide_border=true" alt="picoCTF grind records and notes" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=picoCTF&theme=github_dark&hide_border=true" alt="picoCTF grind records and notes" width="100%" />
       </a>
     </td>
   </tr>
   <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/learn-cpp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=vocab-cards&theme=github_dark&hide_border=true" alt="learning cpp languages and framworks" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=learn-cpp&theme=github_dark&hide_border=true" alt="learning cpp languages and framworks" width="100%" />
+      </a>
+    </td>
+  <td width="50%" style="display: none">
+      <a href="https://github.com/Auggie0w0/neologism">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=neologism&theme=github_dark&hide_border=true" alt="vite-react site, neosoligism inspo from the book Generation X - Douglas Coupland" width="100%" />
       </a>
     </td>
   </tr>
