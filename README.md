@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 1.05rem; line-height: 1.6;">
-  I'm <strong>August Lam</strong> — a student in the cybersecurity stream, aspiring to transfer to UBC for Year 2 and join a co-op program. I’m passionate about digital safety, creative collaboration, and using tech to build inclusive, meaningful experiences.
+  I'm <strong>August Lam</strong> — a student in the cybersecurity stream, aspiring to transfer to UBC for Year 3. I’m passionate about digital safety, creative collaboration, and using tech to build inclusive, meaningful experiences.
 </p>
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 1.05rem; line-height: 1.6;">
-  I'm also part of <strong>Team Username Taken</strong> — a creative collective where I plan to showcase original projects, interactive demos, CTF achievements, and tools that help people learn and build. Whether it's cyber challenges, design experiments, or tiny games, everything here is a learning journey in progress.
+  I'm the president of the <strong> Langara Cybersecurity Club<strong> and member of its CTF team! I am also part of the <strong>Team Username Taken</strong> — a creative collective where I plan to showcase original projects, interactive demos, CTF achievements, and tools that help people learn and build. Whether it's cyber challenges, design experiments, or tiny games, everything here is a learning journey in progress.
 </p>
 
 <p>Our website: <a href="https://username-taken-site.vercel.app/">Username Taken Website Under Construction :></a></p>
