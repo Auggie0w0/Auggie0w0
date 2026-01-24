@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 1.05rem; line-height: 1.6;">
-  I'm the president of the <strong> Langara Cybersecurity Club<strong> and member of its CTF team! I am also part of the <strong>Team Username Taken</strong> — a creative collective where I plan to showcase original projects, interactive demos, CTF achievements, and tools that help people learn and build. Whether it's cyber challenges, design experiments, or tiny games, everything here is a learning journey in progress.
+  I'm the president of the <strong> Langara Cybersecurity Club </strong>strong> and member of its CTF team! I am also part of the <strong>Team Username Taken</strong> — a creative collective where I plan to showcase original projects, interactive demos, CTF achievements, and tools that help people learn and build. Whether it's cyber challenges, design experiments, or tiny games, everything here is a learning journey in progress.
 </p>
 
 <p>Our website: <a href="https://username-taken-site.vercel.app/">Username Taken Website Under Construction :></a></p>
