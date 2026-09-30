@@ -89,6 +89,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=shadow-escape&theme=github_dark&hide_border=true" alt="shadow-escape" width="100%" />
       </a>
     </td>
+    <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/neologism">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=neologism&theme=github_dark&hide_border=true" alt="vite-react site, neosoligism inspo from the book Generation X - Douglas Coupland" width="100%" />
       </a>
