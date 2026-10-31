@@ -25,7 +25,7 @@
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://soundcloud.com/augg0w0" target="_blank">
+
   <img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
 </a>
 
