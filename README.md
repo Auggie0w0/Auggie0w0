@@ -96,6 +96,7 @@
 <br>
 
 <!-- PROJECTS: THREE COLUMNS -->
+<h2>PROJECTS</h2>
 
 <table width="100%">
   <tr>
