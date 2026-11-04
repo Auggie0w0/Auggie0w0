@@ -117,24 +117,6 @@
         />
       </a>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Auggie0w0/langara">
-        <img
-          src="https://img.shields.io/badge/langara-181717?style=for-the-badge&logo=github&logoColor=white"
-          alt="langara"
-          height="40"
-        />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Auggie0w0/birthday-cake">
-        <img
-          src="https://img.shields.io/badge/birthday--cake-181717?style=for-the-badge&logo=github&logoColor=white"
-          alt="birthday-cake"
-          height="40"
-        />
-      </a>
-    </td>
   </tr>
 </table>
 
