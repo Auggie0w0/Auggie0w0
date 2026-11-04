@@ -71,22 +71,10 @@
       <a href="https://github.com/Auggie0w0/auggiepage">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=auggiepage&theme=github_dark&hide_border=true" alt="auggiepage" width="100%" />
       </a>
-    </td>
-    <td width="50%" style="display: none">
-      <a href="https://github.com/Auggie0w0/personal-simp-site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=personal-simp-site&theme=github_dark&hide_border=true" alt="personal-simp-site" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr valign="top" style="display: none">
+    <tr valign="top" style="display: none">
     <td width="50%" style="display: none">
       <a href="https://github.com/Auggie0w0/shadow-escape">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=shadow-escape&theme=github_dark&hide_border=true" alt="shadow-escape" width="100%" />
-      </a>
-    </td>
-    <td width="50%" style="display: none">
-      <a href="https://github.com/Auggie0w0/neologism">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=neologism&theme=github_dark&hide_border=true" alt="vite-react site, neosoligism inspo from the book Generation X - Douglas Coupland" width="100%" />
       </a>
     </td>
   </tr>
