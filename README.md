@@ -1,9 +1,9 @@
 <h1 align="center">
-  WELCOME TO MY GITHUB
+  August Lam
 </h1>
 
 <p align="center">
-  I am a student in the cybersecurity stream, aspiring to transfer to UBC for Year 3 for BSc and hope to peruse PhD in Information Technologies. I’m passionate about digital safety, creative collaboration, and using tech to build inclusive experiences and community.
+  I am a student in Computer Science planning to specialize in the cybersecurity stream. I am aspiring to transfer to UBC for Year 3 for BSc in 2027 and plan to pursue PhD in Information Technologies. I’m passionate about digital safety, creative collaboration, and using tech to build inclusive experiences and community through club and other initiatives.
 </p>
 
 <p align="center">
