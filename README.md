@@ -12,11 +12,11 @@
 
 <p>
   Our websites:
-  <a href="https://username-taken-site.vercel.app/">Username Taken Website Under Construction :></a>
+  <a href="https://website.wangara.workers.dev/">Langara Cybersecurity Club Official Website</a>
   |
   <a href="https://wangara.vercel.app/">Wangara Team</a>
   |
-  <a href="https://website.wangara.workers.dev/">Langara Cybersecurity Club Official Website</a>
+  <a href="https://username-taken-site.vercel.app/">Username Taken Website Under Construction :></a>
 </p>
 
 <div align="center">
