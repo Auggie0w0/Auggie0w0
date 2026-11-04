@@ -21,14 +21,9 @@
   <img style="max-width:50px" alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/auggowo/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com/in/yaugustlam/">
+  <img style="max-width:50px" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
-
-  <img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
-</a>
-
 </div>
 
 <br> <br>
