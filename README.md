@@ -95,7 +95,7 @@
 <br>
 <br>
 
-<!-- PROJECTS: TWO COLUMNS, THREE ROWS -->
+<!-- PROJECTS: THREE COLUMNS -->
 
 <table width="100%">
   <tr>
@@ -107,7 +107,6 @@
           height="40"
         />
       </a>
-      <p>(unfinished)</p>
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/Auggie0w0/shadow-escape">
@@ -118,9 +117,6 @@
         />
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/Auggie0w0/langara">
         <img
@@ -130,23 +126,14 @@
         />
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/Auggie0w0/birthday-cake">
         <img
           src="https://img.shields.io/badge/birthday--cake-181717?style=for-the-badge&logo=github&logoColor=white"
           alt="birthday-cake"
-          height="40"
-        />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Auggie0w0/hydration-tracker">
-        <img
-          src="https://img.shields.io/badge/hydration--tracker-181717?style=for-the-badge&logo=github&logoColor=white"
-          alt="hydration-tracker"
           height="40"
         />
       </a>
