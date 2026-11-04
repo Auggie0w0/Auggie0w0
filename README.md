@@ -3,27 +3,36 @@
 </h1>
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 1.05rem; line-height: 1.6;">
-  I'm <strong>August Lam</strong> — a student in the cybersecurity stream, aspiring to transfer to UBC for Year 3. I’m passionate about digital safety, creative collaboration, and using tech to build inclusive, meaningful experiences.
+  I am a student in the cybersecurity stream, aspiring to transfer to UBC for Year 3 for BSc and hope to peruse PhD in Information Technologies. I’m passionate about digital safety,  creative collaboration, and using tech to build inclusive experiences and community.
 </p>
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 1.05rem; line-height: 1.6;">
-  I'm the president of the <strong> Langara Cybersecurity Club </strong>strong> and member of its CTF team– Wangara! I am also part of the <strong>Team Username Taken</strong> — a creative collective where I plan to showcase original projects, interactive demos, CTF achievements, and tools that help people learn and build. Whether it's cyber challenges, design experiments, or tiny games, everything here is a learning journey in progress.
+  I'm the president of the <strong> Langara Cybersecurity Club </strong>strong> and member of its CTF team, also known as Wangara! We compete for the school in CTF competitions! Whether it's cyber challenges, design experiments, or tiny games, course projects, everything here is a learning journey in progress.
 </p>
 
 <p>Our websites: <a href="https://username-taken-site.vercel.app/">Username Taken Website Under Construction :></a>     |    <a href="https://wangara.vercel.app/"> Wangara Team</a>     |   <a href= "https://website.wangara.workers.dev/"> Langara Cybersecurity Club Official Website </a> </p>
-
 
 <div align="center">
 
 ## 🔗 CONNECT WITH ME
 
+<p align="center">
 <a href="https://medium.com/@auggieldoggie">
   <img style="max-width:50px" alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/yaugustlam/">
-  <img style="max-width:50px" alt="Linkedin" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" />
-</a>
+
+  <a href="https://www.linkedin.com/in/yaugustlam/">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      alt="Linkedin"
+      width="36"
+      height="36"
+    />
+  </a>
+</p>
+
+
 </div>
 
 <br> <br>
@@ -64,20 +73,46 @@
 <br> <br>
 
 <!-- PINNED PROJECTS -->
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-   <tr style="display: none"></tr>
-  <tr valign="top" style="display: none">
-    <td width="50%" style="display: none">
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/Auggie0w0/auggiepage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=auggiepage&theme=github_dark&hide_border=true" alt="auggiepage" width="100%" />
+        <img
+          src="https://img.shields.io/badge/auggiepage-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="auggiepage"
+          height="32"
+        />
       </a>
-    <tr valign="top" style="display: none">
-    <td width="50%" style="display: none">
+    </td>
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/Auggie0w0/shadow-escape">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auggie0w0&repo=shadow-escape&theme=github_dark&hide_border=true" alt="shadow-escape" width="100%" />
+        <img
+          src="https://img.shields.io/badge/shadow--escape-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="shadow-escape"
+          height="32"
+        />
       </a>
     </td>
   </tr>
 </table>
+
+<a href="https://github.com/Auggie0w0/langara">https://github.com/Auggie0w0/langara</a>
+
+<a href="https://github.com/Auggie0w0/birthday-cake">https://github.com/Auggie0w0/birthday-cake</a>
+
+<a href="https://github.com/Auggie0w0/auggiepage">https://github.com/Auggie0w0/auggiepage</a> (unfinished)
+
+<a href="https://github.com/Auggie0w0/shadow-escape">https://github.com/Auggie0w0/shadow-escape</a>
+
+<a href="https://github.com/Auggie0w0/hydration-tracker">https://github.com/Auggie0w0/hydration-tracker</a>
+
+<a href="https://github.com/Auggie0w0/smiling-colors">https://github.com/Auggie0w0/smiling-colors</a>
+
+### Disclaimer
+
+**Personal Website:** My personal website (`auggiepage`) is currently unfinished and in the planning and development stages. Its design, content, and features are works in progress and may change over time.
+
+**Previous Projects:** Some repositories contain older projects completed during school or other courses. These are included to document my learning journey and past experience, and may not reflect my current skills, coding practices, or development standards.
 
 </div>
