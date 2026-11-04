@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/yaugustlam/">
-  <img style="max-width:50px" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <img style="max-width:50px" alt="Linkedin" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" />
 </a>
 </div>
 
